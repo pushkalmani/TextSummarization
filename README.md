@@ -13,7 +13,7 @@
 ---
 [(Back to top)](#list-of-contents)
 
-The given program collects text from website url given by user and generates summary of it's text upto k number of sentences , the k is set to default value of 5 which can be changed by user
+The given program collects text from website url given by user and generates it's summary .
 
 ## Working
 ---
